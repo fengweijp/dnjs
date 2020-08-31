@@ -16,6 +16,9 @@ It is powerful yet familiar, and the reduced syntax makes it easy to implement (
 ╚══════════════════════════════╝
 ```
 
+An article on using `dnjs`: [**evolving backend → frontend rendered Python/JS apps with dnjs**](https://leontrolski.github.io/semi-isomorphic.html)
+
+
 ## Installing the reference interpreter
 
 ```bash
